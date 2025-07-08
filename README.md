@@ -3,11 +3,11 @@
 ## Table of contents
 
 • [💡 About](#about)
-• [Content](#content)
-• [Metgodology](#methogology)
-• [Licence](#licence)
-• [Citation](#citation)
-• [Contributors](#contributors)
+• [📁 Content](#content)
+• [💻 Methodology](#methogology)
+• [📄 Licence](#licence)
+• [✍️ Citation](#citation)
+• [🌍 Contributors](#contributors)
 
 #💡 About
  
@@ -54,15 +54,15 @@ The dissemination team documented the full research and deployment process throu
 Their work ensures that both technical findings and societal impact are made accessible to broader audiences, including local stakeholders and the public.
 
 
-#  📁 Content 
+#📁 Content
 
-#  💻 Methodology
+#💻 Methodology
 
-#  📄 Licence
+#📄 Licence
 
-#  ✍️ Citation
+#✍️ Citation
 
-#  🌍 Contributors
+#🌍 Contributors
 
 ##  Project Management
 
