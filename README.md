@@ -9,7 +9,7 @@
 • [✍️ Citation](#citation)
 • [🌍 Contributors](#contributors)
 
-#💡 About
+# 💡 About
  
 This repository documents the interdisciplinary work conducted as part of the renaturation project of the River Aa, coordinated by the Institute for Geoinformatics (ifgi- Universität Münster), serving as a field-based laboratory for students in the MSc programs in Geoinformatics and Geospatial Technologies.
 
@@ -54,15 +54,15 @@ The dissemination team documented the full research and deployment process throu
 Their work ensures that both technical findings and societal impact are made accessible to broader audiences, including local stakeholders and the public.
 
 
-#📁 Content
+# 📁 Content
 
-#💻 Methodology
+# 💻 Methodology
 
-#📄 Licence
+# 📄 Licence
 
-#✍️ Citation
+# ✍️ Citation
 
-#🌍 Contributors
+# 🌍 Contributors
 
 ##  Project Management
 
