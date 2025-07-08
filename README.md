@@ -1,15 +1,15 @@
 #  Unmanned Aerial Systems for Applied Research. Case study: Renaturation of the River Aa
 
-## Table of contents
+## Table of Contents
 
-• [💡 About](#about)
-• [📁 Content](#content)
-• [💻 Methodology](#methogology)
-• [📄 Licence](#licence)
-• [✍️ Citation](#citation)
-• [🌍 Contributors](#contributors)
+• [About](#💡-about)  
+• [Content](#📁-content)  
+• [Methodology](#💻-methodology)  
+• [Licence](#📄-licence)  
+• [Citation](#✍️-citation)  
+• [Contributors](#🌍-contributors)
 
-# 💡 About
+## 💡 About
  
 This repository documents the interdisciplinary work conducted as part of the renaturation project of the River Aa, coordinated by the Institute for Geoinformatics (ifgi- Universität Münster), serving as a field-based laboratory for students in the MSc programs in Geoinformatics and Geospatial Technologies.
 
@@ -54,28 +54,28 @@ The dissemination team documented the full research and deployment process throu
 Their work ensures that both technical findings and societal impact are made accessible to broader audiences, including local stakeholders and the public.
 
 
-# 📁 Content
+## 📁 Content
 
-# 💻 Methodology
+## 💻 Methodology
 
-# 📄 Licence
+## 📄 Licence
 
-# ✍️ Citation
+## ✍️ Citation
 
-# 🌍 Contributors
+## 🌍 Contributors
 
-##  Project Management
+###  Project Management
 
 Francisco J. Lozada, Mario Galvao, Selani Thomas
 
-##  Image Analysis
+###  Image Analysis
 
 Lourenco Alexandre, Muhammad Sanan, Kazim Baran Yilmaz, Ruben Femenia, Nolan Kressin, George Nana Harris, Philipp Mundinger, Gomathy Ambalavanan
 
-##  Sensors
+###  Sensors
 
 Solenn Reeves-Long, Samuel Costa Cabral, Justin Cheung Cheng Chung, Brenan Gabriel Andre
 
-##  Data Dissemination
+###  Data Dissemination
 
 Petro Kvartsianyi, Margaux Neri, Melanie Menoscal, Hala Ghareeb, Darian Weiß
