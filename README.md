@@ -56,7 +56,11 @@ Their work ensures that both technical findings and societal impact are made acc
 
 ## Content
 
+### Project Orzanization
+
 ## Methodology
+
+### Software and Platform
 
 ## Licence
 
