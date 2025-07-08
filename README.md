@@ -15,7 +15,7 @@ This repository documents the interdisciplinary work conducted as part of the re
 
 Over recent weeks, students have engaged in advanced methodologies involving environmental monitoring, remote sensing, and spatial analysis, structured around three main teams:
 
-### Image Analysis Team
+### 📷 Image Analysis Team
 
 Our team analyzed the renaturation process using multi-source imagery and geospatial datasets, structured across four analytical domains:
 	1.	Flood Modeling
@@ -31,7 +31,7 @@ Our team analyzed the renaturation process using multi-source imagery and geospa
 	•	Time-series comparison pre- and post-renaturation
 
 
-### Sensor Deployment Team
+### 🌡️ Sensor Deployment Team
 
 Complementing the remote sensing analysis, the sensor team deployed in-situ environmental sensors to monitor local conditions in real time. Variables collected include:
 	•	Air Temperature
@@ -44,7 +44,7 @@ Complementing the remote sensing analysis, the sensor team deployed in-situ envi
 All sensors were georeferenced and integrated with spatial layers for further cross-domain analysis.
 
 
-### Dissemination and Public Engagement Team
+### 🌐 Dissemination and Public Engagement Team
 
 The dissemination team documented the full research and deployment process through:
 	•	High-resolution photography and videography
