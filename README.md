@@ -1,6 +1,6 @@
-<em> #  Unmanned Aerial Systems for Applied Research. Case study: Renaturation of the River Aa </em>
+#  Unmanned Aerial Systems for Applied Research. Case study: Renaturation of the River Aa
 
-#  About
+#  💡 About
  
 This repository documents the interdisciplinary work conducted as part of the renaturation project of the River Aa, coordinated by the Institute for Geoinformatics (ifgi- Universität Münster), serving as a field-based laboratory for students in the MSc programs in Geoinformatics and Geospatial Technologies.
 
