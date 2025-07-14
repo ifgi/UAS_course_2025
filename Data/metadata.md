@@ -1,4 +1,4 @@
-#Metadata and Technical specifications 
+# Metadata and Technical specifications 
 
 ### 1. Image Acquisition Equipment
 
