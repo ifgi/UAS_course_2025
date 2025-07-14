@@ -58,13 +58,33 @@ Their work ensures that both technical findings and societal impact are made acc
 
 ### Project Orzanization
 
-## Methodology
-
-### Software and Platform
+Project organization is following the TIER Protocol 4.0 that specifies the structure for reproducibility:
+ Project/
+ 	The Read Me File
+ 	The Report
+ 	Data/
+		 InputData/
+		 	Input Data Files
+		 Metadata/
+		 	Data Sources Guide
+		 	Codebooks
+		 AnalysisData/
+		 	Analysis Data Files
+		 	The Data Appendix
+		 IntermediateData/
+		 Scripts/
+		 ProcessingScripts/
+		 DataAppendixScripts/
+		 AnalysisScripts/
+		 	The Master Script
+		 Output/
+		 	Results
 
 ## Licence
 
 ## Citation
+
+This project can be cited with the following route https://github.com/ifgi/UAS_course_2025/tree/main
 
 ## Contributors
 
